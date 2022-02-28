@@ -17,4 +17,4 @@ The data about their diary content is sorted and stored in different categories.
 <img width="560" alt="Screen Shot 2022-02-28 at 3 55 03 pm" src="https://user-images.githubusercontent.com/96395578/155926324-3e5e8ea1-2d36-48dd-ac3e-ea07b4c004f7.png">
 
 Future improvements
-  -  Going to add more Analytics feature to the website, for instance, can record the user's writing habits (including but not limited to, the number of consecutive days that they write diary), analyses what the user focuses on in recent days, put a stock chart so that they can also write an investment diary.
+  -  Going to add more Analytics feature to the website. For instance, can record the user's writing habits (including but not limited to, the number of consecutive days that they write diary), can analyse what the user focuses on in recent days, can put a stock chart so that users can write investment diaries.
