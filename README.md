@@ -1,5 +1,5 @@
 # DiaryWeb
-This is a website, developed in Spring Boot, for storing, writing and categorising diary. 
+This is a website, developed in Spring Boot, for storing, writing and categorising diaries.
 
 Users can personalise their home page. 
 
